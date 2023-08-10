@@ -1,2 +1,2 @@
 # Golf-In-One
-Golf!
+This is my golf game project for university.
